@@ -23,3 +23,5 @@ src.test.java.com.agilesolutions.hiscores.ApplicationTest
 
 Data:
 src.main.resources.data.sql
+
+DB: MySQL
