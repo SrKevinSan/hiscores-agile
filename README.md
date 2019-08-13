@@ -19,7 +19,7 @@ http://localhost:8081/category/Cooking
 http://localhost:8081/category/Crafting
 
 Test Application (test of "not found"):
-src.main.test.java.com.agilesolutions.hiscores.ApplicationTest
+src.test.java.com.agilesolutions.hiscores.ApplicationTest
 
 Data:
 src.main.resources.data.sql
