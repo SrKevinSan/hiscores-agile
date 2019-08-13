@@ -7,6 +7,7 @@ Total of xp by player:
 http://localhost:8081/category/Overall
 
 Categories:
+
 http://localhost:8081/category/Attack
 
 http://localhost:8081/category/Defense
